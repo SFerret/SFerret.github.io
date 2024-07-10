@@ -1,6 +1,6 @@
 # SFerret
 
-- [个人简历](https://github.com/SFerret/SFerret.github.io/Doc/Resum.pdf)
+- [个人简历](https://github.com/SFerret/SFerret.github.io/blob/gh-pages/Doc/Resum.pdf)
 - 熟悉开关电源及嵌入式硬件开发，爱好硬件设计。
 
 <!-- .slide -->
