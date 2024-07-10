@@ -1,17 +1,17 @@
 title: SFerret # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  <a href="mailto:site@wu-kan.cn">
+  <a href="mailto:nizhiyuan.jmu@foxmail.com">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/SFerret">
     <i class="fa-brands fa-github"></i>
   </a>
   <br/>
-  水野爱、佐贺偶像是传奇、吹响吧！上低音号、FGO、以及我的黑柴犬吴豆豆
+  主修微电子科学与工程，熟悉硬件设计与开发
   <br/>
-  「奏でろ 荒ぶる魂」
+  开关电源、嵌入式开发
   <br/>
-  “我的灵魂奏出绝响”
+  AltiumDesigner原理图及PCB绘制
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
